@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./miscellenausdem00grosgoog/miscellenausdem00grosgoog_0106.png"; bbox 0 0 2226 3798; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 737 815 1068 1010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 737 815 1068 1010">
+     <span class='ocr_line' id='line_1_1' title="bbox 914 815 1068 905; baseline 0.019 -27"><span class='ocrx_word' id='word_1_1' title='bbox 914 815 998 884; x_wconf 74' lang='lat' dir='ltr'>inem</span> <span class='ocrx_word' id='word_1_2' title='bbox 1024 845 1068 905; x_wconf 68' lang='lat' dir='ltr'>ge.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 737 904 1066 1010; baseline 0.033 -42"><span class='ocrx_word' id='word_1_3' title='bbox 737 982 744 994; x_wconf 87' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 855 904 977 1010; x_wconf 36' lang='lat' dir='ltr'>itabat</span> <span class='ocrx_word' id='word_1_5' title='bbox 1014 933 1066 982; x_wconf 68' lang='lat' dir='ltr'>von</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1118 3798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1118 3798">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1118 3798; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1118 3798; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
